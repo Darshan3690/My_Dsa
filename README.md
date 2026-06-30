@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan3690/My_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
