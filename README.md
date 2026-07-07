@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan3690/My_Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan3690/My_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
