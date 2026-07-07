@@ -1,41 +1,28 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-           
-                  int n=s.length();
-                    if (s.length() != t.length()) {
+        // Base case: if lengths are different, they cannot be isomorphic
+        if (s == null || t == null || s.length() != t.length()) {
             return false;
         }
-                  HashMap<Character,Character> map1=new HashMap<>();
-                   HashMap<Character,Character> map2=new HashMap<>();
-                  
 
+        // Arrays to store the last seen positions of characters (ASCII size 256)
+        int[] mapS = new int[256];
+        int[] mapT = new int[256];
 
-                  for(int i=0;i<n;i++){
-                   
-                   char c1 = s.charAt(i);
-            char c2 = t.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            char charS = s.charAt(i);
+            char charT = t.charAt(i);
 
-            // Check existing mapping from s to t
-            if (map1.containsKey(c1)) {
-                if (map1.get(c1) != c2) {
-                    return false;
-                }
-            } else {
-                map1.put(c1, c2);
+            // If the last seen positions don't match, the mapping is invalid
+            if (mapS[charS] != mapT[charT]) {
+                return false;
             }
-                  
-                    if (map2.containsKey(c2)) {
-                if (map2.get(c2) != c1) {
-                    return false;
-                }
-            } else {
-                map2.put(c2, c1);
-            }
+
+            // Update the position tracking (using i + 1 to avoid default 0 conflict)
+            mapS[charS] = i + 1;
+            mapT[charT] = i + 1;
         }
 
-
-
-                  return true;
-        
+        return true;
     }
 }
