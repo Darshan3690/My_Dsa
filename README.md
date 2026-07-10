@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
+| [2544-alternating-digit-sum](https://github.com/Darshan3690/My_Dsa/tree/master/2544-alternating-digit-sum) |
 ## Memoization
 |  |
 | ------- |
