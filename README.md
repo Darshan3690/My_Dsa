@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Darshan3690/My_Dsa/tree/master/0200-number-of-islands) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
+| [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Darshan3690/My_Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Darshan3690/My_Dsa/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan3690/My_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
+| [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan3690/My_Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
+| [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 | [2544-alternating-digit-sum](https://github.com/Darshan3690/My_Dsa/tree/master/2544-alternating-digit-sum) |
 ## Memoization
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Darshan3690/My_Dsa/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
