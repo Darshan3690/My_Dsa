@@ -2,6 +2,11 @@ class Solution {
     public int chalkReplacer(int[] chalk, int k) {
 
     int n=chalk.length;
+    long sum = 0;
+        for (int x : chalk)
+            sum += x;
+        k %= sum; 
+        
    while (true) {
     for (int i = 0; i < n; i++) {
         if (k < chalk[i]) {
