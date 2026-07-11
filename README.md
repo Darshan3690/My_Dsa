@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/Darshan3690/My_Dsa/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/Darshan3690/My_Dsa/tree/master/2544-alternating-digit-sum) |
 ## Memoization
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Darshan3690/My_Dsa/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
