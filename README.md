@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Darshan3690/My_Dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darshan3690/My_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Darshan3690/My_Dsa/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan3690/My_Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Darshan3690/My_Dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Darshan3690/My_Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Darshan3690/My_Dsa/tree/master/2413-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
