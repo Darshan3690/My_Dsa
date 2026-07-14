@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Darshan3690/My_Dsa/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Darshan3690/My_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Darshan3690/My_Dsa/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Darshan3690/My_Dsa/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Darshan3690/My_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
