@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Darshan3690/My_Dsa/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Darshan3690/My_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan3690/My_Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Darshan3690/My_Dsa/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/Darshan3690/My_Dsa/tree/master/2413-smallest-even-multiple) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/Darshan3690/My_Dsa/tree/master/2413-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
