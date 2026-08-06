@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan3690/My_Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Darshan3690/My_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan3690/My_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
@@ -168,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Darshan3690/My_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
