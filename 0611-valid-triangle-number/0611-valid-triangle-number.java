@@ -3,22 +3,39 @@ import java.util.Arrays;
 class Solution {
     public int triangleNumber(int[] nums) {
 
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
 
-        int n = nums.length;
+        // int n = nums.length;
+        // int count = 0;
+
+        // for (int i = 0; i < n - 2; i++) {
+        //     for (int j = i + 1; j < n - 1; j++) {
+        //         for (int k = j + 1; k < n; k++) {
+
+        //             if (nums[i] + nums[j] > nums[k]) {
+        //                 count++;
+        //             }
+        //         }
+        //     }
+        // }
+
+        // return count;
+       
+        // a + b > c
         int count = 0;
-
-        for (int i = 0; i < n - 2; i++) {
-            for (int j = i + 1; j < n - 1; j++) {
-                for (int k = j + 1; k < n; k++) {
-
-                    if (nums[i] + nums[j] > nums[k]) {
-                        count++;
-                    }
+        for(int i = nums.length - 1; i >= 0; i--) {
+            int l = 0;
+            int r = i - 1;
+            Arrays.sort(nums);
+            while(l < r) {
+                if(nums[l] + nums[r] > nums[i]) {
+                    count += r - l;
+                    r--;
+                } else {
+                    l++;
                 }
             }
         }
-
         return count;
     }
 }
