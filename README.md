@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Darshan3690/My_Dsa/tree/master/0507-perfect-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Darshan3690/My_Dsa/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Darshan3690/My_Dsa/tree/master/0278-first-bad-version) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Darshan3690/My_Dsa/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
