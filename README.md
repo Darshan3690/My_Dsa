@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Darshan3690/My_Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darshan3690/My_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Darshan3690/My_Dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Darshan3690/My_Dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Darshan3690/My_Dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan3690/My_Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Darshan3690/My_Dsa/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan3690/My_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Darshan3690/My_Dsa/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
