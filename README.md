@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
 | [1109-corporate-flight-bookings](https://github.com/Darshan3690/My_Dsa/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Darshan3690/My_Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Darshan3690/My_Dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan3690/My_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Darshan3690/My_Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Darshan3690/My_Dsa/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
