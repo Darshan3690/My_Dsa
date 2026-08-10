@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Darshan3690/My_Dsa/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Darshan3690/My_Dsa/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/Darshan3690/My_Dsa/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Darshan3690/My_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Darshan3690/My_Dsa/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Darshan3690/My_Dsa/tree/master/0035-search-insert-position) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
