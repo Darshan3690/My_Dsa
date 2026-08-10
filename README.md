@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Darshan3690/My_Dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Darshan3690/My_Dsa/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/Darshan3690/My_Dsa/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Darshan3690/My_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Darshan3690/My_Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darshan3690/My_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Darshan3690/My_Dsa/tree/master/0200-number-of-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Darshan3690/My_Dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Darshan3690/My_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Darshan3690/My_Dsa/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Darshan3690/My_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
