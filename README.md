@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Darshan3690/My_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [1109-corporate-flight-bookings](https://github.com/Darshan3690/My_Dsa/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Darshan3690/My_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Darshan3690/My_Dsa/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Darshan3690/My_Dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Darshan3690/My_Dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Darshan3690/My_Dsa/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
@@ -195,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
