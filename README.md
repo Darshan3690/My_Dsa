@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
+| [0875-koko-eating-bananas](https://github.com/Darshan3690/My_Dsa/tree/master/0875-koko-eating-bananas) |
 | [1109-corporate-flight-bookings](https://github.com/Darshan3690/My_Dsa/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/Darshan3690/My_Dsa/tree/master/1288-remove-covered-intervals) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
+| [0875-koko-eating-bananas](https://github.com/Darshan3690/My_Dsa/tree/master/0875-koko-eating-bananas) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
