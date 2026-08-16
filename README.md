@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
+| [0680-valid-palindrome-ii](https://github.com/Darshan3690/My_Dsa/tree/master/0680-valid-palindrome-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Darshan3690/My_Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Darshan3690/My_Dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0680-valid-palindrome-ii](https://github.com/Darshan3690/My_Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan3690/My_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Darshan3690/My_Dsa/tree/master/0611-valid-triangle-number) |
+| [0680-valid-palindrome-ii](https://github.com/Darshan3690/My_Dsa/tree/master/0680-valid-palindrome-ii) |
 ## Counting
 |  |
 | ------- |
