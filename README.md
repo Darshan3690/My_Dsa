@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Darshan3690/My_Dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan3690/My_Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Darshan3690/My_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan3690/My_Dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Darshan3690/My_Dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Darshan3690/My_Dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Darshan3690/My_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Darshan3690/My_Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Darshan3690/My_Dsa/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Darshan3690/My_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Darshan3690/My_Dsa/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Darshan3690/My_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
