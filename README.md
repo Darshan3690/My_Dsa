@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Darshan3690/My_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Darshan3690/My_Dsa/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Darshan3690/My_Dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Darshan3690/My_Dsa/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Darshan3690/My_Dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Darshan3690/My_Dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Darshan3690/My_Dsa/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Darshan3690/My_Dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Darshan3690/My_Dsa/tree/master/0067-add-binary) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/Darshan3690/My_Dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Darshan3690/My_Dsa/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan3690/My_Dsa/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
