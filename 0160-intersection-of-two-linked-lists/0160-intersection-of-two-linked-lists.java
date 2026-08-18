@@ -48,7 +48,7 @@ public class Solution {
             pb=pb.next;
 
         }
-        return pa;
+        return pb;
 
 
 
