@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Darshan3690/My_Dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan3690/My_Dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Darshan3690/My_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Darshan3690/My_Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Darshan3690/My_Dsa/tree/master/0796-rotate-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Darshan3690/My_Dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Darshan3690/My_Dsa/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Darshan3690/My_Dsa/tree/master/0204-count-primes) |
+| [0415-add-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Darshan3690/My_Dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Darshan3690/My_Dsa/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/Darshan3690/My_Dsa/tree/master/1154-day-of-the-year) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Darshan3690/My_Dsa/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Darshan3690/My_Dsa/tree/master/0415-add-strings) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Darshan3690/My_Dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/Darshan3690/My_Dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
